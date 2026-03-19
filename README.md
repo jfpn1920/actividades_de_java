@@ -36,5 +36,5 @@ Tienes dos opciones para obtener el código:
    ```
 
 #
-## Nota importante
+### Nota importante
 Este repositorio está en constante actualización, por lo que se seguirán agregando más ejercicios y mejoras con el tiempo.
